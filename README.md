@@ -1,4 +1,6 @@
-<h1 align="center">Victoria "Cat" Catlett</h1>
+<h2 align="center">Victoria "Cat" Catlett</h2>
+
+<h3 align="center">(they/them/theirs)</h3>
 
 <p align="center">
   <img
