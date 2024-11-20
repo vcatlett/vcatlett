@@ -8,7 +8,7 @@
 
 <p align="center">
     <img alt="GitHub profile view count" src="https://komarev.com/ghpvc/?username=vcatlett&label=Profile%20Views&color=9370d8&style=flat">
-    <img alt="Website status" src="https://img.shields.io/website?url=https%3A%2F%2Fvcatlett.com">
+    <img alt="Website status" src="https://img.shields.io/website?url=https%3A%2F%2Fvcatlett.com&label=Website">
 </p>
 
 <h3 align="center">
