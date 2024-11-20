@@ -2,6 +2,10 @@
     Victoria "Cat" Catlett
 </h1>
 
+<p align="center">
+    <img alt="Personal logo, a purple cat with a bowtie and sunglasses" src="static/img/logo_vcatlett.jpg">
+</p>
+
 <h3 align="center">
     Software engineer at the NRAO Green Bank Observatory
 </h3>
