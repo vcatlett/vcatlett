@@ -1,4 +1,4 @@
-<h1 style="font-family:'Times New Roman'" align="center">Victoria "Cat" Catlett</h1>
+<h1 align="center">Victoria "Cat" Catlett</h1>
 
 <p align="center">
   <img
