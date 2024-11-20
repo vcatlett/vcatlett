@@ -1,9 +1,9 @@
 <h1 align="center">
-    Hi 👋, I'm Cat
+    Victoria "Cat" Catlett
 </h1>
 
 <h3 align="center">
-    A software engineer at The NRAO Green Bank Observatory
+    Software engineer at the NRAO Green Bank Observatory
 </h3>
 
 <p align="center"> 
