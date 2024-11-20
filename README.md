@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img alt="Personal logo, a purple cat with a bowtie and sunglasses" src="static/img/logo_vcatlett.jpg">
+    <img alt="Personal logo, a purple cat with a bowtie and sunglasses" src="static/img/logo_vcatlett.jpg" width="60">
 </p>
 
 <h3 align="center">
