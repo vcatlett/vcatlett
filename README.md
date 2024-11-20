@@ -6,15 +6,15 @@
     A software engineer at The NRAO Green Bank Observatory
 </h3>
 
-<p align="left"> 
+<p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=vcatlett&label=Profile%20views&color=0e75b6&style=flat" alt="vcatlett" /> 
 </p>
 
-<h3 align="left">
+<h3 align="center">
     Connect with me:
 </h3>
 
-<p align="left">
+<p align="center">
     <a href="https://linkedin.com/in/victoria-catlett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victoria-catlett" height="30" width="40" />
     </a>
     <a href="https://instagram.com/astro_catlett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astro_catlett" height="30" width="40" />
