@@ -1,13 +1,4 @@
----
-title: "Title"
-author: "Author"
-date: "DATE"
-output: 
-  html_document:
-     css: static/css/styles.css
-     self_contained: no
-
----
+<link rel="stylesheet" href="static/css/styles.css">
 
 <h1 align="center">
     Victoria "Cat" Catlett
