@@ -8,7 +8,9 @@
   />
 </p>
 
-<h3 align="center">Software engineer at the NRAO Green Bank Observatory</h3>
+<h3 align="center">Software Engineer at the NRAO Green Bank Observatory</h3>
+
+<h3 align="center">BSc Physics | BSc Mathematics</h3>
 
 <p align="center">
   <img
