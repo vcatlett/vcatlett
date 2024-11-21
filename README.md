@@ -7,7 +7,7 @@
 <p align="center">
   <img
     alt="Personal logo, a purple cat with a bowtie and sunglasses"
-    src="static/img/logo_vcatlett.jpg"
+    src="static/img/logo_vcatlett.png"
     width="200"
   />
 </p>
