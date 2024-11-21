@@ -1,9 +1,5 @@
 <h1 align="center">I'm Cat, and welcome to my GitHub!</h1>
 
-<h3 align="center">Victoria "Cat" Catlett</h3>
-
-<h3 align="center">(they/them/theirs)</h3>
-
 <p align="center">
   <img
     alt="Personal logo, a purple cat with a bowtie and sunglasses"
@@ -11,6 +7,10 @@
     width="200"
   />
 </p>
+
+<h1 align="center">Victoria "Cat" Catlett</h1>
+
+<h3 align="center">(they/them/theirs)</h3>
 
 <h3 align="center">Software Engineer at the NRAO Green Bank Observatory</h3>
 
