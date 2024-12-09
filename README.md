@@ -2,11 +2,13 @@
 <h1 align="center">I'm Cat, and welcome to my GitHub!</h1>
 
 <p align="center">
-  <img
-    alt="Personal logo, a purple cat with a bowtie and sunglasses"
-    src="static/img/logo_vcatlett.png"
-    width="200"
-  />
+  <a href="https://vcatlett.com/" target="blank">
+    <img
+      alt="Personal logo, a purple cat with a bowtie and sunglasses"
+      src="static/img/logo_vcatlett.png"
+      width="200"
+    />
+  </a>
 </p>
 
 <hr>
