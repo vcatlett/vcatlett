@@ -1,3 +1,4 @@
+<hr>
 <h1 align="center">I'm Cat, and welcome to my GitHub!</h1>
 
 <p align="center">
@@ -361,3 +362,5 @@
     />
   </a>
 </p>
+
+<hr>
