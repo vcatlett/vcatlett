@@ -36,7 +36,7 @@
 <h3 align="center">Contact Me:</h3>
 
 <!-- Contact Information Table -->
-<table>
+<table class="center">
   <!-- Table Header -->
   <thead>
     <tr>
@@ -48,7 +48,7 @@
   <tbody>
     <!-- Email -->
     <tr>
-      <td>
+      <td style="text-align: center">
         <img
           align="center"
           src="static/icon/email.svg"
@@ -61,7 +61,7 @@
     </tr>
     <!-- LinkedIn -->
     <tr>
-      <td>
+      <td style="text-align: center">
         <img
           align="center"
           src="static/icon/linkedin.svg"
@@ -74,7 +74,7 @@
     </tr>
     <!-- Instagram -->
     <tr>
-      <td>
+      <td style="text-align: center">
         <img
           align="center"
           src="static/icon/instagram.svg"
