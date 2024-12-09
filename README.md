@@ -1,3 +1,4 @@
+<!-- SECTION: Introduction and Logo -->
 <hr>
 <h1 align="center">I'm Cat, and welcome to my GitHub!</h1>
 
@@ -11,6 +12,7 @@
   </a>
 </p>
 
+<!-- SECTION: Personal Information -->
 <hr>
 <h1 align="center">Victoria "Cat" Catlett</h1>
 
@@ -29,30 +31,64 @@
   </a>
 </p>
 
+<!-- SECTION: Contact Me -->
 <hr>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contact Me:</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/victoria-catlett" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="victoria-catlett"
-      height="30"
-      width="40"
-    />
-  </a>
-  <a href="https://instagram.com/astro_catlett" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="astro_catlett"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
+<!-- Contact Information Table -->
+<table class="center">
+  <!-- Table Header -->
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <!-- Table Body -->
+  <tbody>
+    <!-- Email -->
+    <tr>
+      <td style="text-align: center">
+        <img
+          align="center"
+          src="static/icon/email.svg"
+          alt="Email Icon"
+          height="30"
+          width="40"
+        />
+      </td>
+      <td>victoria.w.catlett@gmail.com</td>
+    </tr>
+    <!-- LinkedIn -->
+    <tr>
+      <td style="text-align: center">
+        <img
+          align="center"
+          src="static/icon/linkedin.svg"
+          alt="LinkedIn Logo"
+          height="30"
+          width="40"
+        />
+      </td>
+      <td>victoria-catlett</td>
+    </tr>
+    <!-- Instagram -->
+    <tr>
+      <td style="text-align: center">
+        <img
+          align="center"
+          src="static/icon/instagram.svg"
+          alt="Instagram Logo"
+          height="30"
+          width="40"
+        />
+      </td>
+      <td>@astro_catlett</td>
+    </tr>
+  </tbody>
+</table>
 
+<!-- SECTION: Languages and Tools -->
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 
