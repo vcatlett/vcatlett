@@ -18,10 +18,6 @@
 
 <p align="center">
   <img
-    alt="GitHub profile view count"
-    src="https://komarev.com/ghpvc/?username=vcatlett&label=Profile%20Views&color=9370d8&style=for-the-badge"
-  />
-  <img
     alt="Personal website status"
     src="https://img.shields.io/website?url=https://vcatlett.com&up_message=UP&down_message=DOWN&style=for-the-badge&label=Website"
   />
