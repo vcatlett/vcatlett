@@ -8,6 +8,7 @@
   />
 </p>
 
+<hr>
 <h1 align="center">Victoria "Cat" Catlett</h1>
 
 <h3 align="center">(they/them/theirs)</h3>
@@ -23,6 +24,7 @@
   />
 </p>
 
+<hr>
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
@@ -46,6 +48,7 @@
   </a>
 </p>
 
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
