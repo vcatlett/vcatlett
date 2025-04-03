@@ -16,7 +16,9 @@
 
 <h3 align="center">(they/them/theirs)</h3>
 
-<h3 align="center">Software Engineer at the NRAO Green Bank Observatory</h3>
+<h3 align="center">Incoming physics graduate student at Oregon State University</h3>
+
+<h3 align="center">Former Software Engineer at the NRAO Green Bank Observatory</h3>
 
 <h3 align="center">BSc Physics | BSc Mathematics</h3>
 
