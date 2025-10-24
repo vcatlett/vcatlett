@@ -21,12 +21,3 @@
 <h3 align="center">Former Software Engineer at the NRAO Green Bank Observatory</h3>
 
 <h3 align="center">BSc Physics | BSc Mathematics</h3>
-
-<p align="center">
-  <a href="https://vcatlett.com/" target="_blank">
-    <img
-      alt="Personal website status"
-      src="https://img.shields.io/website?url=https://vcatlett.com&up_message=UP&down_message=DOWN&style=for-the-badge&label=Website"
-    />
-  </a>
-</p>
